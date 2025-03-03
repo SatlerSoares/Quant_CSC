@@ -1,4 +1,3 @@
-time
 requests
 numpy
 pandas
@@ -10,9 +9,3 @@ flask
 gunicorn
 quandl
 scipy
-zipfile
-dateutil
-json
-io
-google
-os
