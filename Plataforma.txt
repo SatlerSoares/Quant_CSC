@@ -1,0 +1,4 @@
+Repositorio de quantitative finance:
+    https://github.com/codigoquant/python_para_investimentos/tree/master
+
+    
