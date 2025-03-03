@@ -9,3 +9,5 @@ flask
 gunicorn
 quandl
 scipy
+yfinance
+pyfolio
